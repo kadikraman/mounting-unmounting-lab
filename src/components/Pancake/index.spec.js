@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { mount } from 'enzyme';
-import { spyOn } from 'expect';
+import expect from 'expect';
 
 import Pancake from './';
 
